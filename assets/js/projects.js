@@ -34,6 +34,30 @@ let render_projects = (slug) => {
             description: "A puzzle game where you control a tetris block and must rotate it through obstacles to reach the finish.",
             categories: ['featured']
         },
+        {
+            image: 'assets/images/mobile-landscape.jpg',
+            link: 'https://redbluebird.itch.io/climatic',
+            title: 'Climatic',
+            technologies: [],
+            description: "A management game where you must keep your island's population alive in the face of natural disasters and global warming.",
+            categories: []
+        },
+        {
+            image: 'assets/images/mobile-landscape.jpg',
+            link: 'https://redbluebird.itch.io/square-shuffle',
+            title: 'Square Shuffle',
+            technologies: [],
+            description: "A simple puzzle game where you move around blocks and avoid enemies to reach the finish.",
+            categories: []
+        },
+        {
+            image: 'assets/images/mobile-landscape.jpg',
+            link: 'https://redbluebird.itch.io/phishing-trip',
+            title: 'Phishing Trip',
+            technologies: [],
+            description: "A \"Papers Please\" knockoff where you check whether the emails you receive are legitimate.",
+            categories: []
+        },
     ]
 
     let projects = [];
