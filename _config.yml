@@ -10,7 +10,7 @@ exclude: [vendor/ruby]
 email: ethan12wang@gmail.com
 
 # absolute or relative
-profile_picture: assets/images/prp.png
+profile_picture: assets/images/prp.jpg
 
 # Google Analytics ID
 google_analytics: 
