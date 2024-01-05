@@ -1,5 +1,5 @@
 $(document).ready(() => {
-    render_projects('featured');
+    render_projects('all');
 })
 
 
@@ -14,7 +14,7 @@ let render_projects = (slug) => {
             image: 'assets/images/mentors.jpg',
             link: 'https://github.com/python-discord/game-jam-2020/tree/master/Finalists/gamer_gang',
             title: 'Triple Blocks',
-            technologies: ['featured'],
+            technologies: ['Lead Design'],
             description: "A simple platformer puzzle game where you control 3 blocks and must navigate them all towards the exit flag.",
             categories: ['featured']
         },
@@ -22,7 +22,7 @@ let render_projects = (slug) => {
             image: 'assets/images/mobile-landscape.jpg',
             link: 'https://redbluebird.itch.io/armageddon-v2',
             title: 'Armageddon',
-            technologies: ['featured'],
+            technologies: ['Lead Design'],
             description: "A side scrolling 2d bullet hell where defeating an enemy causes enemy bullets to disappear.",
             categories: ['featured']
         },
@@ -30,7 +30,7 @@ let render_projects = (slug) => {
             image: 'assets/images/mobile-landscape.jpg',
             link: 'https://redbluebird.itch.io/sticky-stacky-blocks',
             title: 'Sticky Stacky Blocks',
-            technologies: ['featured'],
+            technologies: ['Lead Design'],
             description: "A puzzle game where you control a tetris block and must rotate it through obstacles to reach the finish.",
             categories: ['featured']
         },
@@ -40,7 +40,7 @@ let render_projects = (slug) => {
             title: 'Climatic',
             technologies: [],
             description: "A management game where you must keep your island's population alive in the face of natural disasters and global warming.",
-            categories: ['featured']
+            categories: []
         },
         {
             image: 'assets/images/mobile-landscape.jpg',
@@ -48,7 +48,7 @@ let render_projects = (slug) => {
             title: 'Square Shuffle',
             technologies: [],
             description: "A simple puzzle game where you move around blocks and avoid enemies to reach the finish.",
-            categories: ['featured']
+            categories: []
         },
         {
             image: 'assets/images/mobile-landscape.jpg',
@@ -56,7 +56,7 @@ let render_projects = (slug) => {
             title: 'Phishing Trip',
             technologies: [],
             description: "A \"Papers Please\" knockoff where you check whether the emails you receive are legitimate.",
-            categories: ['featured']
+            categories: []
         },
     ]
 
