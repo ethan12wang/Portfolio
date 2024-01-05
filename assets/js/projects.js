@@ -12,21 +12,27 @@ let render_projects = (slug) => {
     let projects_obj = [
         {
             image: 'assets/images/mentors.jpg',
-            link: 'https://github.com/abhn/Mporter',
-            title: 'Mporter',
-            demo: 'https://mporter.co',
-            technologies: ['Flask', 'Celery', 'Python'],
-            description: "Flask web application for easy reporting updates to one's mentor. Multi-user support, easy to deploy and use.",
-            categories: ['featured', 'webdev']
+            link: 'https://github.com/python-discord/game-jam-2020/tree/master/Finalists/gamer_gang',
+            title: 'Triple Blocks',
+            technologies: [],
+            description: "A simple platformer puzzle game where you control 3 blocks and must navigate them all towards the exit flag.",
+            categories: ['featured']
         },
         {
             image: 'assets/images/mobile-landscape.jpg',
-            link: 'https://github.com/abhn/Wall-E',
-            title: 'Wall-E',
-            demo: 'http://wall-e-jekyll.github.io/',
-            technologies: ['Semantic UI', 'Jekyll'],
-            description: "A modern Jekyll theme with grid frontpage, beautiful typography, mobile responsive, made with Semantic UI.",
-            categories: ['featured', 'webdev']
+            link: 'https://redbluebird.itch.io/armageddon-v2',
+            title: 'Armageddon',
+            technologies: [],
+            description: "A side scrolling 2d bullet hell where defeating an enemy causes enemy bullets to disappear.",
+            categories: ['featured']
+        },
+        {
+            image: 'assets/images/mobile-landscape.jpg',
+            link: 'https://redbluebird.itch.io/sticky-stacky-blocks',
+            title: 'Sticky Stacky Blocks',
+            technologies: [],
+            description: "A puzzle game where you control a tetris block and must rotate it through obstacles to reach the finish.",
+            categories: ['featured']
         },
     ]
 
