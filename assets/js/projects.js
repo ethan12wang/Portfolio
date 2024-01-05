@@ -19,7 +19,7 @@ let render_projects = (slug) => {
             categories: ['featured']
         },
         {
-            image: 'assets/images/mobile-landscape.jpg',
+            image: 'assets/images/Armageddon.png',
             link: 'https://redbluebird.itch.io/armageddon-v2',
             title: 'Armageddon',
             technologies: ['Lead Design'],
@@ -27,7 +27,7 @@ let render_projects = (slug) => {
             categories: ['featured']
         },
         {
-            image: 'assets/images/mobile-landscape.jpg',
+            image: 'assets/images/SSS.png',
             link: 'https://redbluebird.itch.io/sticky-stacky-blocks',
             title: 'Sticky Stacky Blocks',
             technologies: ['Lead Design'],
@@ -35,7 +35,7 @@ let render_projects = (slug) => {
             categories: ['featured']
         },
         {
-            image: 'assets/images/mobile-landscape.jpg',
+            image: 'assets/images/Climatic.png',
             link: 'https://redbluebird.itch.io/climatic',
             title: 'Climatic',
             technologies: [],
@@ -43,7 +43,7 @@ let render_projects = (slug) => {
             categories: []
         },
         {
-            image: 'assets/images/mobile-landscape.jpg',
+            image: 'assets/images/SS.png',
             link: 'https://redbluebird.itch.io/square-shuffle',
             title: 'Square Shuffle',
             technologies: [],
@@ -51,7 +51,7 @@ let render_projects = (slug) => {
             categories: []
         },
         {
-            image: 'assets/images/mobile-landscape.jpg',
+            image: 'assets/images/Phishing.png',
             link: 'https://redbluebird.itch.io/phishing-trip',
             title: 'Phishing Trip',
             technologies: [],
