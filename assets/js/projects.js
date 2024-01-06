@@ -22,7 +22,7 @@ let render_projects = (slug) => {
             image: 'assets/images/TripleBlocks.png',
             link: 'https://github.com/python-discord/game-jam-2020/tree/master/Finalists/gamer_gang',
             title: 'Triple Blocks',
-            technologies: ['Lead Design'],
+            technologies: ['Lead Design', 'Github Repo'],
             description: "A simple platformer puzzle game where you control 3 blocks and must navigate them all towards the exit flag.",
             categories: ['featured']
         },
