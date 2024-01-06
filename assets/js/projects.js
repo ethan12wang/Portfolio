@@ -11,19 +11,19 @@ let render_projects = (slug) => {
 
     let projects_obj = [
         {
-            image: 'assets/images/TripleBlocks.png',
-            link: 'https://github.com/python-discord/game-jam-2020/tree/master/Finalists/gamer_gang',
-            title: 'Triple Blocks',
-            technologies: ['Lead Design'],
-            description: "A simple platformer puzzle game where you control 3 blocks and must navigate them all towards the exit flag.",
-            categories: ['featured']
-        },
-        {
             image: 'assets/images/Armageddon.png',
             link: 'https://redbluebird.itch.io/armageddon-v2',
             title: 'Armageddon',
             technologies: ['Lead Design', 'Design Document'],
             description: "A side scrolling 2d bullet hell where defeating an enemy causes enemy bullets to disappear.\n <a href="https://docs.google.com/document/d/1If2QAyn5Nk-3rgJq18c1JjRCY_Tn6W5dd2Yudgf8JTQ/edit?usp=sharing">Design Document Link</a>",
+            categories: ['featured']
+        },
+        {
+            image: 'assets/images/TripleBlocks.png',
+            link: 'https://github.com/python-discord/game-jam-2020/tree/master/Finalists/gamer_gang',
+            title: 'Triple Blocks',
+            technologies: ['Lead Design'],
+            description: "A simple platformer puzzle game where you control 3 blocks and must navigate them all towards the exit flag.",
             categories: ['featured']
         },
         {
