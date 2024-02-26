@@ -12,9 +12,9 @@ let render_projects = (slug) => {
     let projects_obj = [
         {
             image: 'assets/images/Armageddon.png',
-            link: 'https://docs.google.com/document/d/1If2QAyn5Nk-3rgJq18c1JjRCY_Tn6W5dd2Yudgf8JTQ/edit?usp=sharing',
+            link: 'https://redbluebird.itch.io/armageddon-v2',
             title: 'Armageddon',
-            technologies: ['Lead Design', 'Design Document'],
+            technologies: ['Lead Design'],
             description: "A side scrolling 2d bullet hell where defeating an enemy causes enemy bullets to disappear.",
             categories: ['featured']
         },
