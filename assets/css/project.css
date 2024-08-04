@@ -10,7 +10,7 @@
 }
 
 .carousel-images {
-  display: flex;
+  display: relative;
   transition: transform 0.5s ease;
 }
 
@@ -28,6 +28,7 @@
   color: #fff;
   padding: 10px;
   cursor: pointer;
+  z-index: 1;
 }
 
 .carousel-button.prev {
