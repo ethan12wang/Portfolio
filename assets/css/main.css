@@ -180,7 +180,9 @@ img {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+	  flex-direction: column;
 }
+
 
 .section.skills > div {
   width: 100%;
