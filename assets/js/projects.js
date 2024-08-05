@@ -11,7 +11,7 @@ let render_projects = (slug) => {
 
     let projects_obj = [
         {
-            image: 'assets/images/temp.png',
+            image: 'assets/images/grizz_approaching.png',
             link: 'https://n0va-0.itch.io/bike-the-bullet',
             title: 'Bike the Bullet',
             technologies: ['Lead Design', 'Unity'],
