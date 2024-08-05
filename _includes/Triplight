@@ -1,1 +1,24 @@
-
+<div class="section-wrapper">
+    <section class="section" id="Triplight">
+        <div class="flexd">
+            <div class="section-heading">Triplight</div>
+            
+    
+    
+            
+            <div class="carousel">
+              <div class="carousel-images">
+                <img src="assets/images/Armageddon.png" alt="Image 1">
+                <img src="assets/images/Climatic.png" alt="Image 2">
+                <img src="assets/images/Phishing.png" alt="Image 3">
+              </div>
+              <button class="carousel-button prev">‹</button>
+              <button class="carousel-button next">›</button>
+            </div>
+    
+            <p class="paragraph-text justify-text">
+                test test test test test
+            </p>
+        </div>
+    </section>
+</div>
