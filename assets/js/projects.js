@@ -36,7 +36,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/temp.png',
-            link: '',
+            link: 'https://games.illinois.edu/Ongoing-Projects.html',
             title: 'Resilient Community',
             technologies: ['Lead Design'],
             description: "temp",
@@ -44,7 +44,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/temp.png',
-            link: '',
+            link: 'https://games.illinois.edu/Ongoing-Projects.html',
             title: 'Master Dancer',
             technologies: ['Lead Design'],
             description: "temp",
