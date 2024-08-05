@@ -11,52 +11,92 @@ let render_projects = (slug) => {
 
     let projects_obj = [
         {
+            image: 'assets/images/temp.png',
+            link: '',
+            title: 'Bike the Bullet',
+            technologies: ['Lead Design', 'Unity'],
+            description: "temp",
+            categories: ['featured', 'Game Jam']
+        },
+        {
+            image: 'assets/images/temp.png',
+            link: '',
+            title: 'Triplight',
+            technologies: [],
+            description: "temp",
+            categories: ['featured', 'GameBuilders']
+        },
+        {
             image: 'assets/images/Armageddon.png',
             link: 'https://redbluebird.itch.io/armageddon-v2',
             title: 'Armageddon',
             technologies: ['Lead Design'],
             description: "A side scrolling 2d bullet hell where defeating an enemy causes enemy bullets to disappear.",
-            categories: ['featured']
+            categories: ['featured', 'Game Jam']
+        },
+        {
+            image: 'assets/images/temp.png',
+            link: '',
+            title: 'Resilient Community',
+            technologies: ['Lead Design'],
+            description: "temp",
+            categories: ['Stu/dio']
+        },
+        {
+            image: 'assets/images/temp.png',
+            link: '',
+            title: 'Master Dancer',
+            technologies: ['Lead Design'],
+            description: "temp",
+            categories: ['Stu/dio']
+        },
+        {
+            image: 'assets/images/temp.png',
+            link: '',
+            title: 'Fitness Journey',
+            technologies: ['Unity'],
+            description: "temp",
+            categories: ['Game Jam', 'Solo']
         },
         {
             image: 'assets/images/TripleBlocks.png',
             link: 'https://github.com/python-discord/game-jam-2020/tree/master/Finalists/gamer_gang',
             title: 'Triple Blocks',
-            technologies: ['Lead Design', 'Github Repo'],
+            technologies: ['Lead Design', 'Python'],
             description: "A simple platformer puzzle game where you control 3 blocks and must navigate them all towards the exit flag.",
-            categories: ['featured']
+            categories: ['Game Jam']
         },
         {
             image: 'assets/images/SSS.png',
             link: 'https://redbluebird.itch.io/sticky-stacky-blocks',
             title: 'Sticky Stacky Blocks',
-            technologies: ['Lead Design'],
+            technologies: ['Lead Design', 'Unity'],
             description: "A puzzle game where you control a tetris block and must rotate it through obstacles to reach the finish.",
-            categories: ['featured']
+            categories: ['Game Jam']
         },
         {
             image: 'assets/images/Climatic.png',
             link: 'https://redbluebird.itch.io/climatic',
             title: 'Climatic',
-            technologies: [],
+            technologies: ['Unity'],
             description: "A management game where you must keep your island's population alive in the face of natural disasters and global warming.",
-            categories: []
+            categories: ['Game Jam']
         },
         {
             image: 'assets/images/SS.png',
             link: 'https://redbluebird.itch.io/square-shuffle',
             title: 'Square Shuffle',
-            technologies: [],
+            technologies: ['Unity'],
             description: "A simple puzzle game where you move around blocks and avoid enemies to reach the finish.",
-            categories: []
+            categories: ['Game Jam']
         },
         {
             image: 'assets/images/Phishing.png',
             link: 'https://redbluebird.itch.io/phishing-trip',
             title: 'Phishing Trip',
-            technologies: [],
+            technologies: ['Unity'],
             description: "A \"Papers Please\" knockoff where you check whether the emails you receive are legitimate.",
-            categories: []
+            categories: ['Game Jam']
         },
     ]
 
