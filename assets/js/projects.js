@@ -19,7 +19,7 @@ let render_projects = (slug) => {
             categories: ['featured', 'gamejam']
         },
         {
-            image: 'assets/images/temp.png',
+            image: 'assets/images/triplight.png',
             link: 'https://gamebuilders.acm.illinois.edu/',
             title: 'Triplight',
             technologies: [],
@@ -35,7 +35,7 @@ let render_projects = (slug) => {
             categories: ['featured', 'gamejam']
         },
         {
-            image: 'assets/images/temp.png',
+            image: 'assets/images/rc.png',
             link: 'https://games.illinois.edu/Ongoing-Projects.html',
             title: 'Resilient Community',
             technologies: ['Lead Design'],
@@ -43,7 +43,7 @@ let render_projects = (slug) => {
             categories: ['stu/dio']
         },
         {
-            image: 'assets/images/temp.png',
+            image: 'assets/images/Loie-Fuller.webp',
             link: 'https://games.illinois.edu/Ongoing-Projects.html',
             title: 'Master Dancer',
             technologies: ['Lead Design'],
