@@ -40,7 +40,7 @@ let render_projects = (slug) => {
             title: 'Resilient Community',
             technologies: ['Lead Design'],
             description: "A turn based strategy game where you must defend your communities' electric grids against hurricanes.",
-            categories: ['stu/dio']
+            categories: ['studio']
         },
         {
             image: 'assets/images/Loie-Fuller.webp',
@@ -48,7 +48,7 @@ let render_projects = (slug) => {
             title: 'Master Dancer',
             technologies: ['Lead Design'],
             description: "An interactive VR experience based on Loie Fuller's life and accomplishments",
-            categories: ['stu/dio']
+            categories: ['studio']
         },
         {
             image: 'assets/images/Fitness Journey.png',
