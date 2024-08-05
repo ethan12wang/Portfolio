@@ -12,7 +12,7 @@ let render_projects = (slug) => {
     let projects_obj = [
         {
             image: 'assets/images/temp.png',
-            link: '',
+            link: 'https://n0va-0.itch.io/bike-the-bullet',
             title: 'Bike the Bullet',
             technologies: ['Lead Design', 'Unity'],
             description: "temp",
@@ -52,7 +52,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/temp.png',
-            link: '',
+            link: 'https://simplynarwall.itch.io/fitness-journey',
             title: 'Fitness Journey',
             technologies: ['Unity'],
             description: "temp",
