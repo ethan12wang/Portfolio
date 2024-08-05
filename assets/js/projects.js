@@ -16,7 +16,7 @@ let render_projects = (slug) => {
             title: 'Bike the Bullet',
             technologies: ['Lead Design', 'Unity'],
             description: "temp",
-            categories: ['featured', 'Game Jam']
+            categories: ['featured', 'gamejam']
         },
         {
             image: 'assets/images/temp.png',
@@ -24,7 +24,7 @@ let render_projects = (slug) => {
             title: 'Triplight',
             technologies: [],
             description: "temp",
-            categories: ['featured', 'GameBuilders']
+            categories: ['featured', 'gamebuilders']
         },
         {
             image: 'assets/images/Armageddon.png',
@@ -32,7 +32,7 @@ let render_projects = (slug) => {
             title: 'Armageddon',
             technologies: ['Lead Design'],
             description: "A side scrolling 2d bullet hell where defeating an enemy causes enemy bullets to disappear.",
-            categories: ['featured', 'Game Jam']
+            categories: ['featured', 'gamejam']
         },
         {
             image: 'assets/images/temp.png',
@@ -40,7 +40,7 @@ let render_projects = (slug) => {
             title: 'Resilient Community',
             technologies: ['Lead Design'],
             description: "temp",
-            categories: ['Stu/dio']
+            categories: ['stu/dio']
         },
         {
             image: 'assets/images/temp.png',
@@ -48,7 +48,7 @@ let render_projects = (slug) => {
             title: 'Master Dancer',
             technologies: ['Lead Design'],
             description: "temp",
-            categories: ['Stu/dio']
+            categories: ['stu/dio']
         },
         {
             image: 'assets/images/temp.png',
@@ -56,7 +56,7 @@ let render_projects = (slug) => {
             title: 'Fitness Journey',
             technologies: ['Unity'],
             description: "temp",
-            categories: ['Game Jam', 'Solo']
+            categories: ['gamejam', 'solo']
         },
         {
             image: 'assets/images/TripleBlocks.png',
@@ -64,7 +64,7 @@ let render_projects = (slug) => {
             title: 'Triple Blocks',
             technologies: ['Lead Design', 'Python'],
             description: "A simple platformer puzzle game where you control 3 blocks and must navigate them all towards the exit flag.",
-            categories: ['Game Jam']
+            categories: ['gamejam']
         },
         {
             image: 'assets/images/SSS.png',
@@ -72,7 +72,7 @@ let render_projects = (slug) => {
             title: 'Sticky Stacky Blocks',
             technologies: ['Lead Design', 'Unity'],
             description: "A puzzle game where you control a tetris block and must rotate it through obstacles to reach the finish.",
-            categories: ['Game Jam']
+            categories: ['gamejam']
         },
         {
             image: 'assets/images/Climatic.png',
@@ -80,7 +80,7 @@ let render_projects = (slug) => {
             title: 'Climatic',
             technologies: ['Unity'],
             description: "A management game where you must keep your island's population alive in the face of natural disasters and global warming.",
-            categories: ['Game Jam']
+            categories: ['gamejam']
         },
         {
             image: 'assets/images/SS.png',
@@ -88,7 +88,7 @@ let render_projects = (slug) => {
             title: 'Square Shuffle',
             technologies: ['Unity'],
             description: "A simple puzzle game where you move around blocks and avoid enemies to reach the finish.",
-            categories: ['Game Jam']
+            categories: ['gamejam']
         },
         {
             image: 'assets/images/Phishing.png',
@@ -96,7 +96,7 @@ let render_projects = (slug) => {
             title: 'Phishing Trip',
             technologies: ['Unity'],
             description: "A \"Papers Please\" knockoff where you check whether the emails you receive are legitimate.",
-            categories: ['Game Jam']
+            categories: ['gamejam']
         },
     ]
 
