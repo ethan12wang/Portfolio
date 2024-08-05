@@ -43,7 +43,7 @@ let render_projects = (slug) => {
             categories: ['studio']
         },
         {
-            image: 'assets/images/Loie-Fuller.webp',
+            image: 'assets/images/loie.png',
             link: 'https://games.illinois.edu/Ongoing-Projects.html',
             title: 'Master Dancer',
             technologies: ['Lead Design'],
