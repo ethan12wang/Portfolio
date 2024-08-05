@@ -20,7 +20,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/temp.png',
-            link: '',
+            link: 'https://gamebuilders.acm.illinois.edu/',
             title: 'Triplight',
             technologies: [],
             description: "A sokoban styled puzzle game featuring puzzles which bend both light and your mind",
