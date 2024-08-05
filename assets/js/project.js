@@ -1,22 +1,26 @@
 document.addEventListener('DOMContentLoaded', () => {
-  const carousel = document.querySelector('.carousel-images');
-  const images = document.querySelectorAll('.carousel-images img');
-  const prevButton = document.querySelector('.carousel-button.prev');
-  const nextButton = document.querySelector('.carousel-button.next');
-  
-  let index = 0;
+  const carousels = document.querySelectorAll('.carousel');
 
-  function updateCarousel() {
-    carousel.style.transform = `translateX(-${index * 100}%)`;
-  }
+  carousels.forEach(carousel => {
+    const imagesContainer = carousel.querySelector('.carousel-images');
+    const images = imagesContainer.querySelectorAll('img');
+    const prevButton = carousel.querySelector('.carousel-button.prev');
+    const nextButton = carousel.querySelector('.carousel-button.next');
 
-  prevButton.addEventListener('click', () => {
-    index = (index > 0) ? index - 1 : images.length - 1;
-    updateCarousel();
-  });
+    let index = 0;
 
-  nextButton.addEventListener('click', () => {
-    index = (index < images.length - 1) ? index + 1 : 0;
-    updateCarousel();
+    function updateCarousel() {
+      imagesContainer.style.transform = `translateX(-${index * 100}%)`;
+    }
+
+    prevButton.addEventListener('click', () => {
+      index = (index > 0) ? index - 1 : images.length - 1;
+      updateCarousel();
+    });
+
+    nextButton.addEventListener('click', () => {
+      index = (index < images.length - 1) ? index + 1 : 0;
+      updateCarousel();
+    });
   });
 });
