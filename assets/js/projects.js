@@ -51,7 +51,7 @@ let render_projects = (slug) => {
             categories: ['stu/dio']
         },
         {
-            image: 'assets/images/temp.png',
+            image: 'assets/images/Fitness Journey.png',
             link: 'https://simplynarwall.itch.io/fitness-journey',
             title: 'Fitness Journey',
             technologies: ['Unity'],
