@@ -15,7 +15,7 @@ let render_projects = (slug) => {
             link: 'https://n0va-0.itch.io/bike-the-bullet',
             title: 'Bike the Bullet',
             technologies: ['Lead Design', 'Unity'],
-            description: "temp",
+            description: "A top down 2d bullet hell featuring twitch streamer CDawgVA and various anthropomorphic animals on vehicles.",
             categories: ['featured', 'gamejam']
         },
         {
@@ -23,7 +23,7 @@ let render_projects = (slug) => {
             link: '',
             title: 'Triplight',
             technologies: [],
-            description: "temp",
+            description: "A sokoban styled puzzle game featuring puzzles which bend both light and your mind",
             categories: ['featured', 'gamebuilders']
         },
         {
@@ -39,7 +39,7 @@ let render_projects = (slug) => {
             link: 'https://games.illinois.edu/Ongoing-Projects.html',
             title: 'Resilient Community',
             technologies: ['Lead Design'],
-            description: "temp",
+            description: "A turn based strategy game where you must defend your communities' electric grids against hurricanes.",
             categories: ['stu/dio']
         },
         {
@@ -47,7 +47,7 @@ let render_projects = (slug) => {
             link: 'https://games.illinois.edu/Ongoing-Projects.html',
             title: 'Master Dancer',
             technologies: ['Lead Design'],
-            description: "temp",
+            description: "An interactive VR experience based on Loie Fuller's life and accomplishments",
             categories: ['stu/dio']
         },
         {
@@ -55,7 +55,7 @@ let render_projects = (slug) => {
             link: 'https://simplynarwall.itch.io/fitness-journey',
             title: 'Fitness Journey',
             technologies: ['Unity'],
-            description: "temp",
+            description: "A dumb ways to die inspired minigame, completed in 24 hours.",
             categories: ['gamejam', 'solo']
         },
         {
